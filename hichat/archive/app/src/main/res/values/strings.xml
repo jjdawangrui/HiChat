@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">HiChat</string>
+
+    <!--底部导航文字-->
+    <array name="bottombarlabel">
+        <item>附近</item>
+        <item>直播</item>
+        <item>会话</item>
+        <item>通讯录</item>
+        <item>个人</item>
+    </array>
+
+    <!--附近头-->
+    <array name="nearbytabs">
+        <item>动态</item>
+        <item>人</item>
+        <item>群组</item>
+    </array>
+
+    <!--会话和联系人Fragment的登录后标题格式-->
+    <!--第一个位置是String，第二个位置是数字，后面还可以继续......-->
+    <string name="formattitle">%1$s(%2$d)</string>
+
+    <array name="contacts_tab">
+        <item>好友</item>
+        <item>关注</item>
+        <item>粉丝</item>
+        <item>群组</item>
+        <item>认证</item>
+    </array>
+</resources>
